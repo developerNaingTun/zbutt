@@ -1,0 +1,239 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.IO;
+using System.Collections;
+using System.Text.RegularExpressions;
+using System.Windows.Forms;
+
+namespace Transcode
+{
+    class TSQLTable
+    {
+        private string name;
+        private ArrayList columns;
+        private int enc;
+        public TSQLTable(string name, ArrayList cols,int enc)
+        {
+            this.name = name;
+            this.columns = cols;
+        }
+        public string getname()
+        {
+            return name;
+        }
+        public ArrayList getcols()
+        {
+            return columns;
+        }
+        public int getenc()
+        {
+            return enc;
+        }
+    }
+
+    class SQLParser
+    {
+        public static ArrayList getTables(string filename)
+        {
+            StreamReader sr = new StreamReader(filename);
+            String s;
+            ArrayList al = new ArrayList();
+            String temp = "";
+            int state = 0;
+            while(!sr.EndOfStream){
+                char c = (char)sr.Read();
+                switch (state)
+                {
+                    case 0:
+                        if (c == '\'')
+                        {
+                            state = 1;
+                            temp += c;
+                        }
+                        else if (c == ';')
+                        {
+                            temp += c;
+                            temp = temp.Trim();
+                            if (temp.StartsWith("INSERT INTO"))
+                            {
+                                String name = FetchTableName(temp);
+                                
+                                al = FetchColumns(temp);
+                                if (al != null)
+                                {
+                                    foreach (String x in al)
+                                        MessageBox.Show(x);
+                                }
+                            }
+                            //MessageBox.Show(temp);
+                            temp = "";
+                        }
+                        else if (c == '\n' || c == '\r')
+                        {
+                            //nothing
+                        }
+                        else
+                        {
+                            temp += c;
+                        }
+                        break;
+                    case 1:
+                        if (c == '\\')
+                            state = 2;
+                        else if (c == '\'')
+                        {
+                            state = 0;
+                            temp += c;
+                        }
+                        else
+                        {
+                            temp += c;
+                        }
+                            break;
+                    case 2:
+                        if (c == 'n')
+                            temp += '\n';
+                        else if (c == 'r')
+                            temp += '\r';
+                        state = 1;
+                        break;
+                }
+            }
+            return al;
+        }
+
+        public static ArrayList FetchColumns(string s)
+        {
+            // INSERT INTO `phpbb_categories` VALUES (2, 'xyzabcd', 20);
+            ArrayList ax = new ArrayList();
+            Regex r = new Regex(@"INSERT[\s]+INTO[\s]+`?\w+`?");
+            s = s.Replace(r.Match(s).Value, "");
+            s = s.Trim();
+            if (s.StartsWith("VALUES"))
+            {
+                s = s.Replace("VALUES", "");
+                ArrayList al = innerFetchColumn(s);
+                if (al == null) return null;
+                for (int i = 0; i < al.Count; i++)
+                {
+                    ax.Add("Col#" + i.ToString());
+                }
+            }
+            else
+            {
+                s = s.Substring(0,s.IndexOf("VALUES"));
+                ax = innerFetchColumnNames(s);
+            }
+            return ax;
+        }
+
+        public static ArrayList innerFetchColumnNames(String s)
+        {
+            Regex r = new Regex(@"`?\w+`?,?");
+            MatchCollection mc =  r.Matches(s);
+            ArrayList al = new ArrayList();
+            foreach (Match m in mc)
+            {
+                string a = m.Value;
+                if (a[a.Length - 1] == ',')
+                    a = a.Substring(0, a.Length - 1);
+                al.Add(a);
+            }
+            return al;
+        }
+
+        public static ArrayList innerFetchColumn(string s)
+        {
+            //"(2, 'xyzabcd', 20)";
+            string tmp = "";
+            ArrayList al = new ArrayList();
+            int state = 0;
+            foreach (char x in s.ToCharArray())
+            {
+                switch (state)
+                {
+                    case 0:
+                        if (x == '(')
+                            state = 1;
+                        else
+                            return null;
+                        break;
+                    case 1:
+                        if (x == ' ')
+                        {
+                        }
+                        else if (x == '\'')
+                        {
+                            state = 2;
+                        }
+                        else if (x == ',')
+                        {
+                            if (tmp == "") return null;
+                            al.Add(tmp);
+                            tmp = "";
+                        }
+                        else if (x == ')')
+                        {
+                            if (tmp == "") return null;
+                            al.Add(tmp);
+                            tmp = "";
+                        }
+                        else
+                        {
+                            tmp += x;
+                        }
+                        break;
+                    case 2:
+                        if (x == '\'')
+                        {
+                            al.Add(tmp);
+                            tmp = "";
+                            state = 4;
+                        }
+                        else if (x == '\\')
+                        {
+                            state = 3;
+                        }
+                        else
+                        {
+                            tmp += x;
+                        }
+                        break;
+                    case 3:
+                        tmp += x;
+                        state = 2;
+                        break;
+                    case 4:
+                        if (x == ',')
+                        {
+                            state = 1;
+                        }
+                        else if (x == ')')
+                        {
+                            state = 5;
+                        }
+                        break;
+                }
+            }
+            return al;
+        }
+
+        private static bool Exists(ArrayList al, TSQLTable s)
+        {
+            foreach (TSQLTable x in al)
+                if (x.getname() == s.getname())
+                    return true;
+            return false;
+        }
+
+        public static string FetchTableName(string s)
+        {
+            Regex r = new Regex(@"INSERT[\s]+INTO[\s]+`?\w+`?");
+            s = r.Match(s).Value;
+            s = Regex.Match(s, @"\s+`?\w+`?$").Value;
+            s = s.Trim();
+            return s;
+        }
+    }
+}

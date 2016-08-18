@@ -1,0 +1,68 @@
+D:\codename-butt\zbutt20070323\zbutt\bin\Debug\zbutt.exe
+D:\codename-butt\zbutt20070323\zbutt\bin\Debug\zbutt.pdb
+D:\codename-butt\zbutt20070323\zbutt\bin\Debug\TranscodeLanguage.dll
+D:\codename-butt\zbutt20070323\zbutt\bin\Debug\TranscodeLanguage.pdb
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\ResolveAssemblyReference.cache
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.ResolveComReference.cache
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.remresfm.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\MirrorControl.MirrorControl.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.formMain.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.Properties.Resources.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.CurvedPanel.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.LineBase.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.RegionBuilder.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.Wizard.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.WizardPage.resources
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.GenerateResource.Cache
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.exe
+D:\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Transcode.exe
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Transcode.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Release\Transcode.exe
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Release\Transcode.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Release\actv.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Release\TranscodeLanguage.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Release\TranscodeLanguage.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Release\Interop.Microsoft.Office.Core.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Release\Interop.Microsoft.Office.Interop.Word.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Release\Interop.VBIDE.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\ResolveAssemblyReference.cache
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Interop.Microsoft.Office.Core.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Interop.Microsoft.Office.Interop.Word.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Interop.VBIDE.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\zbutt.csproj.ResolveComReference.cache
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\zbutt.remresfm.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\MirrorControl.MirrorControl.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\zbutt.formMain.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Transcode.Properties.Resources.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Microsoft.Samples.CurvedPanel.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Microsoft.Samples.LineBase.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\Microsoft.Samples.RegionBuilder.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\CristiPotlog.Controls.Wizard.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\CristiPotlog.Controls.WizardPage.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Release\zbutt.csproj.GenerateResource.Cache
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.exe
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.exe
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\actv.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\TranscodeLanguage.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\TranscodeLanguage.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.VBIDE.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\ResolveAssemblyReference.cache
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.VBIDE.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.ResolveComReference.cache
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.remresfm.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\MirrorControl.MirrorControl.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.formMain.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.Properties.Resources.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.CurvedPanel.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.LineBase.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.RegionBuilder.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.Wizard.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.WizardPage.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.GenerateResource.Cache

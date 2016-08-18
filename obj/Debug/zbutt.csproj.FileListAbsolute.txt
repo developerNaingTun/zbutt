@@ -1,0 +1,94 @@
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.exe
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\actv.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\TranscodeLanguage.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\TranscodeLanguage.pdb
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.VBIDE.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\ResolveAssemblyReference.cache
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.VBIDE.dll
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.ResolveComReference.cache
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.remresfm.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\MirrorControl.MirrorControl.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.formMain.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.Properties.Resources.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.CurvedPanel.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.LineBase.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.RegionBuilder.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.Wizard.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.WizardPage.resources
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.GenerateResource.Cache
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.exe
+C:\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.pdb
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.exe
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.pdb
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\actv.dll
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.VBIDE.dll
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.VBIDE.dll
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.ResolveComReference.cache
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.remresfm.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\MirrorControl.MirrorControl.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.formMain.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.Properties.Resources.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.CurvedPanel.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.LineBase.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.RegionBuilder.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.Wizard.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.WizardPage.resources
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.GenerateResource.Cache
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.exe
+C:\Projects\MyMyanmar\Zen on  (Mybook)\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.pdb
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.VBIDE.dll
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.ResolveComReference.cache
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.exe
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.pdb
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.exe
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.pdb
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\actv.dll
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Core.dll
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.VBIDE.dll
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.remresfm.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\MirrorControl.MirrorControl.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.formMain.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.Properties.Resources.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.CurvedPanel.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.LineBase.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.RegionBuilder.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.Wizard.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.WizardPage.resources
+C:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.GenerateResource.Cache
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Interop.VBIDE.dll
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.ResolveComReference.cache
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.exe
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.pdb
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.exe
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Transcode.pdb
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\actv.dll
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Core.dll
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.Microsoft.Office.Interop.Word.dll
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\bin\Debug\Interop.VBIDE.dll
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.remresfm.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\MirrorControl.MirrorControl.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.formMain.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Transcode.Properties.Resources.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.CurvedPanel.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.LineBase.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\Microsoft.Samples.RegionBuilder.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.Wizard.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\CristiPotlog.Controls.WizardPage.resources
+D:\Projects\MyMyanmar\Zen\codename-butt\zbutt20070323\zbutt\obj\Debug\zbutt.csproj.GenerateResource.Cache

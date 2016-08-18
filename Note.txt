@@ -1,0 +1,2 @@
+mirrorcontrol1.size=540,132;//old=540,80
+form1.size=540,400;
