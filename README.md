@@ -1,2 +1,2 @@
 # zbutt
-<p>committed from @htoomyintnaung.</p>
+<p>Handover from @htoomyintnaung.</p>
